@@ -1,2 +1,2 @@
-# 16kas-mg-rselprogramlama
+# 16kasımgörselprogramlama
 16 kasım
